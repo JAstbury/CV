@@ -1,6 +1,8 @@
 Jess Astbury CV
 =================
 
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Work](#Work)
+
 Former English Literature geek turned TDD'ing, clean-code loving Junior Developer.
 
 After uni, I was sucked into the world of start-ups in a non-technical role. I had to bribe our techies with cups of coffee and listen to their pains with SQL injections in exchange for them to work on my bugs.
@@ -9,7 +11,6 @@ I wanted to be the person to build exciting products and fix issues myself so I 
 
 I'm now really excited to showcase my skills in the wild (and be the person that gets bribed with cups of coffee... :coffee:)
 
-[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Work](#Work)
 
 ## <a name="Skills">Skills</a>
 
