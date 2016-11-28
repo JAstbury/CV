@@ -73,7 +73,7 @@ Evening course on HTML, CSS and jQuery. I learnt:
 
 ## <a name="Work">Work Experience</a>
 
-#### Community Executive at Grub Club (September 2014 - June 2015)
+#### Community Executive at Grub Club (September 2014 - June 2016)
 
 Grub Club is a food start-up which tickets pop-up restaurants:
 
