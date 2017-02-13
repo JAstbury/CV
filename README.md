@@ -44,7 +44,7 @@ I'm now really excited to showcase my skills in the wild (and be the person that
 
 ## <a name="Education">Education</a>
 
-#### Makers Academy (June 2016 to September 2015 )
+#### Makers Academy (June 2016 to September 2016 )
 
 Four month bootcamp which focuses on:
 * Pair programming
@@ -72,6 +72,15 @@ Evening course on HTML, CSS and jQuery. I learnt:
 * BA English Literature (2:1)
 
 ## <a name="Work">Work Experience</a>
+
+#### Apprentice Software Developer at Happy Bear Software (September 2016 - December 2016)
+
+* Built features according to client specifications for a number of Ruby on Rails applications.
+
+* First point of call for a maintenance retainer with one client.
+
+* Built a gem to scan through Ruby codebases and speed up security assessments.
+
 
 #### Community Executive at Grub Club (September 2014 - June 2016)
 
